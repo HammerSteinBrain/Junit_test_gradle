@@ -2,7 +2,7 @@
 
 Testes desenvolvidos no Junit para serem executados em uma calculadora simples
 
-Trabalho para a disciplica de Teste de Software
+Trabalho para a disciplina de Teste de Software
 Professor Fabricio
 
 ### Pre-requisitos
