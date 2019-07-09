@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SomadorTest" tests="3" skipped="1" failures="0" errors="0" timestamp="2019-07-09T17:50:52" hostname="DESKTOP-45PP69G" time="0.049">
+  <properties/>
+  <testcase name="somarTestCsv(int, int, int)[1]" classname="SomadorTest" time="0.037"/>
+  <testcase name="somarTestCsv(int, int, int)[2]" classname="SomadorTest" time="0.001"/>
+  <testcase name="somarTest2()" classname="SomadorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
